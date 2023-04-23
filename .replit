@@ -1,5 +1,5 @@
-compile = "g++ -o 시각 시각.cpp"
-run = "./시각"
+compile = "g++ -o 왕실의나이트 왕실의나이트.cpp"
+run = "./왕실의나이트"
 hidden = ["main", "**/*.o", "**/*.d", ".ccls-cache", "Makefile"]
 entrypoint = "main.cpp"
 
